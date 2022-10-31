@@ -1,6 +1,6 @@
 # Coding Resources Site
 ## Skillcrush class 105.
-### View the [live project here.](https://kirstendarling.github.io/105-coding_resources/)
+### View the [live project here.](https://kirstendarling.github.io/Coding-Resources-Site/)
 
 ### Screenshot
 
